@@ -84,3 +84,5 @@ Thumbs.db
 
 # AWS credentials
 .aws/
+
+patient-service/patient_db
